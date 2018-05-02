@@ -9,10 +9,10 @@ import codecs
 #import tweepy
 count=0
 # personal details
-consumer_key ="CoZxs4vEku2p4sYr1RZDqGc54"
-consumer_secret ="JFIBgAwX6oQJvFsxX8NS93P9lqPgtbYVDeGh6xJ1jfKvgwcRgn"
-access_token ="969230411128647680-I1hPeU3J7jk8MNapGEftKt2Z9mG3I60"
-access_token_secret ="tWo8U9XwEfZBly0pM2xGRTbHkInVVdTsbugFYTGCQzO2h"
+consumer_key=""
+consumer_secret =""
+access_token =""
+access_token_secret =""
 
 def processTweet2(tweet):
     # process the tweets
